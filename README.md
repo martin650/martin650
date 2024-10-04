@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://linkedin.com/www.linkedin.com/In/martin-mwangi-njoroge" class="no-underline" >Martin Mwangi</a>
+# Hi, I'm <a href="https://linkedin.com/www.linkedin.com/in/martin-mwangi-njoroge" class="no-underline" >Martin Mwangi</a>
 
 My journey in Information Science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
