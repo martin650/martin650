@@ -1,5 +1,4 @@
-# Hello, I'm Martin
-# <a href="https://linkedin.com/www.linkedin.com/In/martin-mwangi-njoroge" class="no-underline" >Network Security Professional</a>
+# Hi, I'm <a href="https://linkedin.com/www.linkedin.com/In/martin-mwangi-njoroge" class="no-underline" >Martin Mwangi</a>
 
 ## Objective
 
@@ -7,13 +6,13 @@ My journey in Information Science has led me to develop a passion for cybersecur
 
 
 - 👀 Thank you for coming to my space. This is where I make magics and share it to the world!
-- 🌱 I’m currently learning Cybersecurity, Linux, Python, Automation, Data Science, and Machine Learning.
+- 🌱 I’m currently learning Cybersecurity, Linux, Python, Automation.
 - 💞️ I created cybersecurity portfolio. Please find it <a href="https://github.com/martin650/Cyber-Shujaa-Security-Analyst-Track" class="no-underline">here</a>
-- 🎯 Targeting Linux Foundation Certified Administrator, CompTIA A+ and CompTIA Security+ certifications in 2024.
 - 📫 Find me here. A new website is coming. Stay tuned!
 
 ## Projects
 - Detection Lab
+- CTFs Challenges
 - SOC Automation Project
-- ⚡ Fun fact: ...
+- ⚡ 
 -->
