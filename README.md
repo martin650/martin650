@@ -14,6 +14,6 @@ My journey in Information Science has led me to develop a passion for cybersecur
 ## Projects
 - Detection Lab
 - <a href='https://github.com/martin650/CTFs-Challenges'>CTFs Challenges</a>
-- <a href='https://github.com/martin650/Projects'>Automation Project </a>
+- <a href='https://github.com/martin650/Projects'>Projects </a>
 - ⚡ 
 -->
