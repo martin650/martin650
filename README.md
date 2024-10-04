@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Martin
 <a href="https://linkedin.com/www.linkedin.com/martin-mwangi-njoroge
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -40,6 +40,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ### SIEM
+
+👀 Thank you for coming to my space. This is where I make magics and share it to the world!
+🌱 I’m currently learning Cybersecurity, Linux, Python, Automation, Data Science, and Machine Learning.
+💞️ I created cybersecurity portfolio. Please find it here
+🎯 Targeting Linux Foundation Certified Administrator, CompTIA A+ and CompTIA Security+ certifications in 2024.
+📫 Find me here. A new website is coming. Stay tuned!
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
