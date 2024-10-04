@@ -1,6 +1,6 @@
 # Hello, I'm Martin
-<a href="https://linkedin.com/www.linkedin.com/martin-mwangi-njoroge
-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p style ="font-size:330px;"><a href="https://linkedin.com/www.linkedin.com/In/martin-mwangi-njoroge
+" class="no-underline" >Network Security Professional</a></p>
 
 [Brief Introduction - Remove this afterwards]
 
