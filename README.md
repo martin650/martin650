@@ -3,7 +3,7 @@
 - 👀 Thank you for coming to my space. This is where I make magics and share it to the world!
 - 🌱 I’m currently learning Cybersecurity, Linux, Python, Automation.
 - 💞️ I created cybersecurity portfolio. Please find it <a href="https://github.com/martin650/Cyber-Shujaa-Security-Analyst-Track" class="no-underline">here</a>
-- 🎯 Targeting Cyber-Shujaa Security Analyst Certification, DevOps security certification, and CompTIA Security+ certifications in 2025.
+- 🎯 Targeting  AWS Certified Solutions Architect 2026.
 - 📫 Find me here. A new website is coming. Stay tuned!
 
 ## Projects
